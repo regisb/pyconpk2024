@@ -1,0 +1,10 @@
+# computer vision
+ultralytics
+opencv-python
+
+# development
+black
+pylint
+
+# games!
+raylib
