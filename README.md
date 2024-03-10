@@ -1,7 +1,7 @@
 # Programming: the good parts
 
 
-This repo contains [the slides](https://raw.githubusercontent.com/regisb/pyconpk2024/main/README.md) and code from my talk at [Pycon.pk](https://pycon.pk/) 2024.
+This repo contains [the slides](https://raw.githubusercontent.com/regisb/pyconpk2024/main/slides.pdf) and code from my talk at [Pycon.pk](https://pycon.pk/) 2024.
 
 ## Running the code
 
